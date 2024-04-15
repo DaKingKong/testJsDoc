@@ -1,0 +1,5 @@
+// Test comment
+
+function testFunc(){
+
+}
